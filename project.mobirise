@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-07_0016",
+    "name": "purebetting.github.io",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -12,7 +12,7 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
+        "titleFont": "PT Sans",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
@@ -25,6 +25,11 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 3,
     "versionPublish": "4.8.1"
   },
@@ -79,7 +84,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SOLID COLOR INTRO",
-          "text": "<b><br>------------------------------------------------<br><span style=\"font-style: normal;\">Bet number: 2<br>Profit: \n<br>\n<br>Date:<br>Fixture:<br>Prediction:&nbsp;<br>Odd:\n<br>Amount:&nbsp;<br>Profit:<br></span>-------------------------------------------------<br><span style=\"font-style: normal;\">Bet number: 1<br>Profit:&nbsp;</span><br><br><span style=\"font-style: normal;\">Date: 07/07/2018</span><span style=\"font-style: normal;\"><br>Fixture: Sweden VS England</span><span style=\"font-style: normal;\"><br>Prediction: 2</span></b><span style=\"font-style: normal;\"><b><br>Odd: 1.83<br>Amount: 10€<br>Profit:<br>&nbsp;</b><br><br><br></span>",
+          "text": "<b><br>------------------------------------------------<br><span style=\"font-style: normal;\">Bet number: 2<br>Profit: \n<br>\n<br>Date:<br>Fixture:<br>Prediction:&nbsp;<br>Odd:\n<br>Amount:&nbsp;<br>Profit:<br></span>-------------------------------------------------<br><span style=\"font-style: normal;\">Bet number: 1<br>Profit: 9€</span><br><br><span style=\"font-style: normal;\">Date: 07/07/2018</span><span style=\"font-style: normal;\"><br>Fixture: Sweden VS England</span><span style=\"font-style: normal;\"><br>Prediction: 2</span></b><span style=\"font-style: normal;\"><b><br>Odd: 1.90<br>Amount: 10€<br>Profit: 9€</b></span><br><span style=\"font-style: normal;\"><b>Total:19€<br>&nbsp;</b><br><br><br></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
           "_tags": [
             "Theme"
@@ -100,7 +105,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<b>Profit:<br>Loss:<br>Net:<br><br>Results:<br>Bet number 1:&nbsp;<br>Bet number 2:</b>",
+          "text": "<b>Profit: 9€<br>Loss: 0€<br>Net:<br><br>Results:<br>Bet number 1: 9€<br>Bet number 2:</b>",
           "_tags": [
             "Theme"
           ],
